@@ -1,0 +1,19 @@
+function
+1.) to print all even no from m to n
+2.) print all perfect no from 0 to n
+3.) all prime no from m to n
+4.) print fibonacci series
+5.)given an array, merge arrays as an intersection.Use your own logic dont use sets then try with sets.
+6.)give array a , generate new array y where y=2*a
+7.) Reverse a string
+8.)check if pallendrome
+9.)check if anagram"abc" "cab"
+10.)go to openweathermapapi.org-----> API docs
+get json for today weather
+print out weather with timestamps
+11.)2 arraylist-->use 1st array with keys
+		  2nd array as values
+ constuct dictionary/object
+12.) use your own logic & create the copy of array or dictionary
+13.)atm dispenser-->10,20,50,100.
+
